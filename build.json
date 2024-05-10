@@ -1,0 +1,7 @@
+{
+    "description": "Makes all shulkerboxes stack up to 64",
+    "data_version":43,
+    "resource_version": 15,
+    "datapack_name": "Stacking Shulkerboxes",
+    "world_dirs": ["C:/Users/MkZee/AppData/Roaming/ATLauncher/instances/Minecraft24w18awithFabric/saves/shulker_stacking"]
+}
